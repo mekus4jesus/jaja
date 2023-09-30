@@ -782,6 +782,31 @@ input[type=submit]{
        margin: 1rem 2rem;
     }
 }
+@media (max-width:420px) {
+    .link{
+        max-width: 11rem;
+    }
+    .navbar-img img{
+        width: 65%;
+        margin-right: 17rem;
+    }
+    .profile-img{
+        height: 18rem;
+    }
+    .profile-img img{
+        width: 100%;
+    }
+    .box-1{
+        width: 100%;
+        margin:0.5rem 1rem;
+    }
+    .box-1 img{
+        width: 20rem;
+    }
+    input[type=submit]{
+        margin-left: 13rem;
+    }
+}
 @media (max-width:320px) {
  
     .hamburger{
