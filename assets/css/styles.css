@@ -801,10 +801,10 @@ input[type=submit]{
         margin:0.5rem 1rem;
     }
     .box-1 img{
-        width: 20rem;
+        width: 18rem;
     }
     input[type=submit]{
-        margin-left: 13rem;
+        margin-left: 10rem;
     }
 }
 @media (max-width:320px) {
