@@ -790,12 +790,12 @@ input[type=submit]{
         width: 65%;
         margin-right: 17rem;
     }
-    .profile-img{
-        height: 18rem;
+  .profile-img{
+        margin-top: 2rem;
     }
     .profile-img img{
-        width: 100%;
-      top:12%
+      width: 20.8rem;
+      left: -5%;
     }
     .box-1{
         width: 100%;
@@ -807,6 +807,11 @@ input[type=submit]{
     input[type=submit]{
         margin-left: 10rem;
     }
+  .social .fa-whatsapp, 
+    .social img, 
+    .social .fa-phone{
+       display: none;
+        }
 }
 @media (max-width:320px) {
  
