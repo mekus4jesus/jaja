@@ -791,10 +791,11 @@ input[type=submit]{
         margin-right: 17rem;
     }
     .profile-img{
-        height: 16rem;
+        height: 18rem;
     }
     .profile-img img{
         width: 100%;
+      top:7%
     }
     .box-1{
         width: 100%;
